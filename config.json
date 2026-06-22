@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "appUpdate": {
-    "latestVersionCode": 6,
-    "latestVersionName": "1.0.5",
-    "apkUrl": "",
+    "latestVersionCode": 7,
+    "latestVersionName": "1.0.6",
+    "apkUrl": "apk/CardFlix-1.0.6.apk",
     "mandatory": false,
-    "message": "Nova versao do CardFlix disponivel."
+    "message": "Novo sistema de banners e melhorias de reproducao disponiveis."
   },
   "banners": [
     {
