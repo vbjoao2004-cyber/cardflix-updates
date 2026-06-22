@@ -18,6 +18,9 @@ Coloque a imagem na pasta `banners` e adicione um item em `config.json`:
   "title": "Titulo da campanha",
   "description": "Texto opcional do banner.",
   "durationMs": 15000,
+  "showOverlay": false,
+  "backgroundSize": "cover",
+  "backgroundPosition": "center center",
   "buttonText": "",
   "actionUrl": ""
 }
