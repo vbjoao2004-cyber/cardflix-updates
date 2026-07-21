@@ -1,23 +1,11 @@
 {
   "schemaVersion": 1,
   "appUpdate": {
-    "latestVersionCode": 8,
-    "latestVersionName": "1.0.7",
-    "apkUrl": "apk/CardFlix-1.0.7.apk",
+    "latestVersionCode": 21,
+    "latestVersionName": "1.1.12",
+    "apkUrl": "apk/CardFlix-Demo-1.1.12.apk",
     "mandatory": false,
-    "message": "Melhorias de escala no APK, banner sem corte e player mais estavel."
+    "message": "Nova versao de demonstracao CardFlix com melhorias de estabilidade e instalacao de atualizacoes."
   },
-  "banners": [
-    {
-      "id": "indique-e-ganhe-pix-2026",
-      "active": true,
-      "target": "home",
-      "position": 1,
-      "image": "banners/indique-e-ganhe-pix-2026.png",
-      "durationMs": 15000,
-      "showOverlay": false,
-      "backgroundSize": "contain",
-      "backgroundPosition": "center center"
-    }
-  ]
+  "banners": []
 }
