@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "appUpdate": {
+    "latestVersionCode": 1,
+    "latestVersionName": "1.0.0",
+    "apkUrl": "apk/OTT-Plus-1.0.0.apk",
+    "mandatory": false,
+    "message": "Uma nova versao do OTT Plus esta disponivel. Atualize agora para receber melhorias e correcoes."
+  },
+  "banners": []
+}
