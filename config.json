@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "appUpdate": {
-    "latestVersionCode": 22,
-    "latestVersionName": "1.1.13",
-    "apkUrl": "apk/CardFlix-Demo-1.1.13.apk",
+    "latestVersionCode": 23,
+    "latestVersionName": "1.1.14",
+    "apkUrl": "apk/CardFlix-Demo-1.1.14.apk",
     "mandatory": false,
-    "message": "Player nativo para Android TV e Fire Stick, recuperacao automatica de video e navegacao mais fluida."
+    "message": "Atualizador compativel com Fire Stick, download protegido no aplicativo e instalacao mais confiavel."
   },
   "banners": []
 }
