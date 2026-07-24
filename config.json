@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "appUpdate": {
-    "latestVersionCode": 24,
-    "latestVersionName": "1.1.15",
-    "apkUrl": "apk/CardFlix-Demo-1.1.15.apk",
+    "latestVersionCode": 25,
+    "latestVersionName": "1.1.16",
+    "apkUrl": "apk/CardFlix-Demo-1.1.16.apk",
     "mandatory": false,
-    "message": "Compatibilidade de rede aprimorada: abertura independente de CDNs, rota alternativa de atualizacao e inicializacao mais rapida."
+    "message": "Correcao urgente de abertura: inicializacao protegida e modo compativel automatico para aparelhos e emuladores que fechavam o app."
   },
   "banners": []
 }
