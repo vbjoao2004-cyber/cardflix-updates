@@ -1,11 +1,13 @@
 {
-  "schemaVersion": 1,
-  "appUpdate": {
-    "latestVersionCode": 25,
-    "latestVersionName": "1.1.16",
-    "apkUrl": "apk/CardFlix-Demo-1.1.16.apk",
-    "mandatory": false,
-    "message": "Correcao urgente de abertura: inicializacao protegida e modo compativel automatico para aparelhos e emuladores que fechavam o app."
-  },
-  "banners": []
+    "schemaVersion":  1,
+    "appUpdate":  {
+                      "latestVersionCode":  38,
+                      "latestVersionName":  "2.0.12",
+                      "apkUrl":  "https://github.com/vbjoao2004-cyber/cardflix-updates/releases/download/v2.0.12/CardFlix-Demo-2.0.12.apk",
+                      "mandatory":  false,
+                      "message":  "Correção de abertura em celulares, TVs e TV boxes: inicialização protegida e modo compatível automático."
+                  },
+    "banners":  [
+
+                ]
 }
