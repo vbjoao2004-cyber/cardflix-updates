@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-08-05T22:34:57Z",
+  "groups": {
+    "server_ge": [
+      "b64:aHR0cDovL3Jla2dvbC50b3A=",
+      "b64:aHR0cDovL2FwdHh1LmNvbQ=="
+    ],
+    "server_gr": [
+      "b64:aHR0cDovL2hleXdvcmxkLnh5eg==",
+      "b64:aHR0cDovL3Vzc3Ryc210LnBybw=="
+    ],
+    "server_br": [
+      "b64:aHR0cDovLzM1NTg1MTA2MzIuY2xpY2s=",
+      "b64:aHR0cDovL2FydGhyb3BsZXVyYS5zaG9w"
+    ],
+    "server_ze": [
+      "b64:aHR0cDovL29uZXoxLnNpdGU6ODA=",
+      "b64:aHR0cDovL3plcm91bS5wcm8="
+    ]
+  }
+}
