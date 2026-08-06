@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "appUpdate": {
-    "latestVersionCode": 2,
-    "latestVersionName": "1.0.1",
-    "apkUrl": "apk/IATV-1.0.1.apk",
+    "latestVersionCode": 3,
+    "latestVersionName": "1.0.2",
+    "apkUrl": "apk/IATV-1.0.2.apk",
     "mandatory": false,
     "message": "Uma nova versao do IATV esta disponivel. Atualize agora para receber melhorias e correcoes."
   },
