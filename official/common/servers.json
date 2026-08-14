@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAt": "2026-08-05T22:34:57Z",
+  "revision": 2,
+  "updatedAt": "2026-08-13T20:01:46Z",
   "groups": {
     "server_ge": [
       "b64:aHR0cDovL3Jla2dvbC50b3A=",
@@ -18,6 +18,9 @@
     "server_ze": [
       "b64:aHR0cDovL29uZXoxLnNpdGU6ODA=",
       "b64:aHR0cDovL3plcm91bS5wcm8="
+    ],
+    "server_e3": [
+      "b64:aHR0cDovL2FrYW1lc3Rhci50b3A="
     ]
   }
 }

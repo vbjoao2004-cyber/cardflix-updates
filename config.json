@@ -1,13 +1,11 @@
 {
-    "schemaVersion":  1,
-    "appUpdate":  {
-                      "latestVersionCode":  38,
-                      "latestVersionName":  "2.0.12",
-                      "apkUrl":  "https://github.com/vbjoao2004-cyber/cardflix-updates/releases/download/v2.0.12/CardFlix-Demo-2.0.12.apk",
-                      "mandatory":  false,
-                      "message":  "Correção de abertura em celulares, TVs e TV boxes: inicialização protegida e modo compatível automático."
-                  },
-    "banners":  [
-
-                ]
+  "schemaVersion": 1,
+  "appUpdate": {
+    "latestVersionCode": 40,
+    "latestVersionName": "2.0.14",
+    "apkUrl": "https://github.com/vbjoao2004-cyber/cardflix-updates/releases/download/v2.0.14/CardFlix-2.0.14.apk",
+    "mandatory": false,
+    "message": "Nova interface, Continuar Assistindo aprimorado, player renovado, controles para TV, troca de qualidade nos canais e melhorias de estabilidade."
+  },
+  "banners": []
 }
