@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "appUpdate": {
-    "latestVersionCode": 12,
-    "latestVersionName": "1.0.11",
-    "apkUrl": "apk/OTT-Plus-1.0.11.apk",
+    "latestVersionCode": 13,
+    "latestVersionName": "1.0.12",
+    "apkUrl": "apk/OTT-Plus-1.0.12.apk",
     "mandatory": false,
-    "message": "Atualização 1.0.11 disponível: melhorias na navegação por controle, controles do player, continuidade dos canais e carregamento dos conteúdos. Instale agora para receber as correções."
+    "message": "Atualização 1.0.12 disponível: melhora o foco do controle ao abrir canais, filmes e séries e corrige a navegação na busca. Instale agora para receber as correções."
   },
   "banners": []
 }
